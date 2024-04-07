@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PottersGame
-- 👀 I’m interested in Game, Crypto
-- 🌱 I’m currently learning C#
 - 📫 How to reach me pottersgame@gmail.com
 
 <!---
